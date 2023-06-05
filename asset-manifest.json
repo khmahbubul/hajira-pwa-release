@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://app.intaslctg.greenrevolutionbd.com/static/css/main.426fb33a.css",
+    "main.js": "https://app.intaslctg.greenrevolutionbd.com/static/js/main.d3533b98.js",
+    "index.html": "https://app.intaslctg.greenrevolutionbd.com/index.html",
+    "main.426fb33a.css.map": "https://app.intaslctg.greenrevolutionbd.com/static/css/main.426fb33a.css.map",
+    "main.d3533b98.js.map": "https://app.intaslctg.greenrevolutionbd.com/static/js/main.d3533b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426fb33a.css",
+    "static/js/main.d3533b98.js"
+  ]
+}
